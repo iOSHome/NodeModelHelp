@@ -7,3 +7,5 @@
 * 在调试台中处理生成Model文件
 
 * 一次生成所有的Model文件,自动过滤Null值,后续维护Model提供UndefinedKey提示(以下为演示中一次生成的所有Model文件)
+
+![demo.png](http://images2015.cnblogs.com/blog/607542/201511/607542-20151111223951540-2102716162.png)
