@@ -10,7 +10,6 @@
 #import "PropertyInfomation.h"
 #import "NodeModel.h"
 #import "NodeModelViewController.h"
-#import "PressAnimationButton.h"
 #import "NodePressAnimationView.h"
 
 #define  Width   [UIScreen mainScreen].bounds.size.width
